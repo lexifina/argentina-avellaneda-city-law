@@ -1,0 +1,1 @@
+Artículo 31º bis- Por los análisis efectuados según los incisos a) y b) del artículo 217º bis de la Ordenanza Fiscal vigente, se abonarán los aranceles establecidos por el Laboratorio Central de Salud Pública dependiente del Ministerio de Salud de la Provincia de Buenos Aries.
