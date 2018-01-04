@@ -1,0 +1,2 @@
+Artículo 68º bis- Las multas mencionadas en el artículo 87º bis serán pasibles del pago en cuotas cuando el sentenciado así lo requiera.
+El acogimiento del contribuyente a los planes de facilidades de pago de multas por infracciones de tránsito y varias se formalizará mediante la suscripción de un convenio de pago, cuyo instrumento llevará implícito el reconocimiento de la deuda y obligación de pago.

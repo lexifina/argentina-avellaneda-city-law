@@ -1,0 +1,1 @@
+Artículo 314º octies - Los montos percibidos por los Clubes Barriales y/o Centros de Jubilados y/o Sociedades de Fomento con “Subsidio con cargo a rendir” deberán estar exclusivamente dirigidos a las actividades propias de cada entidad y al mantenimiento de sus bienes.
