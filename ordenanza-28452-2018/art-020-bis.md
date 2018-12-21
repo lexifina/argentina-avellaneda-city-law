@@ -1,0 +1,6 @@
+Artículo 20º bis - Para el supuesto que las concesiones de los servicios públicos de distribución y comercialización de energía eléctrica; distribución y comercialización de gas; y de agua potable y desagües cloacales, sean transferidas de la jurisdicción nacional a la jurisdicción provincial, facúltese al Departamento Ejecutivo a fijar los parámetros y valores de tributación correspondientes a la presente Tasa.
+TÍTULO SEPTIMO
+TASA POR INSPECCION DE INSTALACIONES TÉRMICAS, MECÁNICAS, ELÉCTRICAS,
+ELECTRÓNICAS, DE USO COMERCIAL O DE SERVICIOS QUE REQUIERAN LA PRESENTACIÓN DE
+PLANOS O NO AFECTADAS AL USO EN PARQUES INFANTILES Y/ O CENTROS RECREATIVOS O
+DE DIVERSIÓN
