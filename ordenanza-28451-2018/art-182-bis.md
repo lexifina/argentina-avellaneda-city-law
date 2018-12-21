@@ -1,0 +1,3 @@
+Artículo 182º bis - El presente tributo municipal, sufrirá un recargo del 100 % respecto de lo que resulte a pagar conforme lo establece el artículo 183 º, cuando el contribuyente no cumpla con el procedimiento y/o no entregue la documentación que se le requiera a través de la Dirección de Habilitaciones Comerciales, en el plazo de sesenta (60) días a contar desde la fecha de otorgamiento del número de expediente de Inicio de trámite de Habilitación por Mesa General de Entradas. Esta liquidación procederá hasta que el contribuyente obtenga el certificado de habilitación definitivo.
+CAPÍTULO CUARTO
+DE LA PRESENTACIÓN DE LA DECLARACION JURADA Y EL PAGO

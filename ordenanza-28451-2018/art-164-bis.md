@@ -1,0 +1,4 @@
+Artículo 164º bis- En todo lo no previsto en los artículos precedentes será de aplicación el Código Fiscal, la Ley Impositiva vigente de la Provincia de Buenos Aires y las normas reglamentarias que dicte el Departamento Ejecutivo.
+TÍTULO SEXTO
+TASA POR INSPECCIÓN PARA HABILITACIÓN O INSCRIPCIÓN DE COMERCIOS,
+INDUSTRIAS, SERVICIOS Y DEMÁS ACTIVIDADES ECONÓMICAS
