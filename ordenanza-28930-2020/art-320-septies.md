@@ -1,0 +1,1 @@
+Artículo 320º septies - La base imponible será el módulo, que surgirá de la equivalencia con la unidad fija (UF) establecida por la Dirección Provincial de Política y Seguridad Vial de la Provincia de Buenos Aires en aplicación de lo dispuesto por el artículo 33º del anexo I del Decreto Nº 532/09 reglamentario de la Ley Nº 13.927 de la Provincia de Buenos Aires.-

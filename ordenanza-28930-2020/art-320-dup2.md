@@ -1,0 +1,1 @@
+Artículo 320º sexsies - Se establece una contribución destinada a la reparación y/o reconstrucción de pavimentos, asfaltos y sus obras complementarias, a cargo de quienes, en el desarrollo de su actividad, por si o por terceros, utilizan la infraestructura vial del Partido en beneficio propio, produciendo un mayor desgaste y deterioro.-

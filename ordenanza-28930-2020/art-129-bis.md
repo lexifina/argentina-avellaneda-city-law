@@ -1,0 +1,3 @@
+Artículo 129º bis- El destino “Vivienda Nueva” comprende a todas aquellas viviendas cuya construcción y/o finalización de obra y/o aprobación de plano de obra y/o remodelación y/o empadronamiento, se haya producido a partir del año 2011.
+Integrarán el “Destino Mixto” aquellas construcciones donde coexistan un comercio y una vivienda con comunicación interna entre sí.
+El destino “Vivienda Precaria” comprende a aquellas construcciones de precaria habitabilidad dada por características tales como suelo de tierra, suelo de ladrillo suelto u otro material, paredes de chapa y/o madera, provisión de agua no convencional, inodoro sin descarga de agua, etc. Así mismo las destinadas a casillas, piezas en inquilinato y/o ranchos.

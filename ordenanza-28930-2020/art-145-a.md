@@ -1,0 +1,1 @@
+Artículo 145º- A fin de acceder a la eximición del pago de la Tasa por Servicios Generales correspondiente a inmuebles pertenecientes al dominio del Estado Nacional, establecida en el artículo 128º inciso i)estos deberán ser destinados a servicios educativos, de salud, de justicia y de seguridad.

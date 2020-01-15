@@ -1,0 +1,1 @@
+Artículo 146º- A fin de acceder a la eximición del pago de la Tasa por Servicios Generales correspondiente a los Cuerpos de Bomberos Voluntarios establecida en el artículo 128º inciso j) los inmuebles deberán encontrarse bajo la propiedad, usufructo, posesión o uso y goce de los Cuerpos de Bomberos Voluntarios.
