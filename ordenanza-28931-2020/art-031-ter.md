@@ -1,0 +1,1 @@
+Artículo 31º ter- Por habilitación de transporte de sustancias alimenticias que carezcan de certificado de habilitación otorgados por la Municipalidad de Avellaneda o bien por otras jurisdicciones, por unidad y por año $945,-
