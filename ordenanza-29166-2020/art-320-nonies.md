@@ -1,0 +1,5 @@
+Artículo 320º nonies - Facúltese al Departamento Ejecutivo a reglamentar la presente contribución.”.-
+SECCIÓN SEGUNDA
+DISPOSICIONES COMUNES A LOS TRIBUTOS MUNICIPALES QUE AFECTAN A LAS ACTIVIDADES ECONÓMICAS
+TÍTULO PRIMERO
+ALTA TRIBUTARIA

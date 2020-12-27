@@ -1,0 +1,1 @@
+Artículo 130º bis- Los inmuebles encuadrados en el destino K – Cocheras de uso particular, cuando las mismas se encuentren subdivididas y en superficies descubiertas, podrán tributar con una reducción de hasta el cincuenta por ciento (50%) sobre el valor de la tasa emitido conforme a las condiciones que el Departamento Ejecutivo establezca en su reglamentación.

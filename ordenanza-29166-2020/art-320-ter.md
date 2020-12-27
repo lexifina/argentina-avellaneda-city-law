@@ -1,0 +1,4 @@
+Artículo 320º ter - Se considera como tierra y escombros, los siguientes materiales residuales:
+1.- Las tierras, piedra y materiales similares procedentes de excavaciones.-
+2.- Los residuos resultantes de trabajos de construcción, demolición, derribo y, en general, todos los sobrantes de obras mayores o menores.-
+3.- Cualquier material residual asimilable a los anteriores y los que en circunstancias especiales determine la Autoridad Municipal.-

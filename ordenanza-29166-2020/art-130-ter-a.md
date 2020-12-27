@@ -1,0 +1,2 @@
+Artículo 130° ter- A los fines de determinar la Tasa por Servicios Generales de los objetos imponibles aforados en el destino B – Comercio y Actividades Afines en los que se desarrollen actividades comerciales de cervecería y/o bar, se aplicará lo establecido en el artículo 1° de la Ordenanza Impositiva con más el coeficiente, que establezca el Departamento Ejecutivo en su reglamentación, en relación a la capacidad de concurrencia admisible para cada uno de ellos.
+Deléguese en el Departamento Ejecutivo, la facultad de fijar los coeficientes.
