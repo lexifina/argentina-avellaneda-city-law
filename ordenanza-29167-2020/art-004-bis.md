@@ -1,0 +1,17 @@
+Artículo 4º bis- De acuerdo a lo dispuesto en el artículo 157º de la Ordenanza Fiscal, el monto de esta Tasa se determinará d la siguiente manera:
+a) Contribuyentes comprendidos en el inciso a) del artículo 156º de la Ordenanza Fiscal, de acuerdo a la siguiente fórmula polinómica: T=2B*(NCA*R)/100
+T = Monto mensual de la Tasa
+B = Monto resultante de la aplicación del coeficiente 0,5 por el valor a tributar por la Tasa por Servicios Generales.
+NCA = Es el nivel de complejidad ambiental –expresado en una escala de puntos– asignado por la Secretaría de Política Ambiental de la Provincia de Buenos Aires o por la Municipalidad de Avellaneda, de conformidad con las normas de la Ley Nº11.459 y, consecuentemente, de la Ordenanza Nº15.018.
+R = Es el factor de riesgo total –expresado en puntos– resultante de la sumatoria de los ítems consignados en el cuadro I que se hubiera asignado al contribuyente.
+CUADRO I – ASIGNACION DE FACTORES DE RIESGO
+Item de Riesgo
+Factor
+Sustancias químicas
+1
+Riesgo de explosión
+1,5
+Riesgo de incendio
+1,5
+b) Contribuyentes comprendidos en el inciso b) del artículo 156º de la Ordenanza Fiscal, por metro cuadrado de superficie, afectada o no a la explotación, del inmueble en el que se realicen las operaciones de disposición final de residuos mediante el sistema de relleno sanitario $81,-
+c) En caso de contribuyentes inscriptos con más de un padrón, en la Tasa por Servicios Generales, la fórmula se aplicará sobre cada padrón y luego se procederá a la sumatoria de todos los montos obtenidos.

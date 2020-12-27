@@ -1,0 +1,1 @@
+Artículo 116° septendecies- Para el supuesto de modificarse, durante el transcurso del mes, el valor del módulo de tributación, el nuevo valor comenzará a regir a partir del primer día hábil del mes subsiguiente.

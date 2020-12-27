@@ -1,0 +1,2 @@
+Artículo 116° octies- Cuando el contribuyente responsable del pago de la contribución establecido en el artículo 116° sexies hubiese sido pasible de retenciones, a los fines de determinar el importe a abonar mensualmente en concepto de la presente contribución, aplicará a su favor al momento de realizar la presentación de su declaración jurada mensual las retenciones que le hubieren sido practicadas.
+Sólo se considerarán válidas como retenciones a efecto de ser computadas aquellas que se encuentren registradas en el Sistema de Recaudación Municipal.
