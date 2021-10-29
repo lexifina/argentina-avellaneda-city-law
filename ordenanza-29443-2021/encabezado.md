@@ -1,0 +1,33 @@
+Ordenanza Nº29443
+Ordenanza Nº 29443
+Avellaneda, 14/10/2021
+El Expediente D.E.N° 2-0-89248/2021 - HCD 3-50249-2021, y
+CONSIDERANDO:
+Que vienen las presentes actuaciones a efectos de considerar el Proyecto de Ordenanza por medio del cual el Departamento Ejecutivo propicia la inplementación de un "Programa para la Regularización de Obligaciones Tributarias de los Contribuyentes de Avellaneda";
+Que ello se fundamenta en la continuación del plan de contención fiscal llevado adelante en el marco de la emergencia sanitaria, social y económica en la que posicionó al país la Pandemia de Coronavirus (COVID-19);
+Que, la ORGANIZACIÓN MUNDIAL DE LA SALUD (OMS) ha calificado al COVID-19 como una pandemia global realizando un llamamiento a los países para que adopten medidas urgentes a efectos de mitigar su propagación;
+Que, mediante el Decreto de Necesidad y Urgencia Nº 260/2020, el Poder Ejecutivo Nacional amplió la Emergencia Pública en Materia Sanitaria establecida por Ley Nº 27.541, en virtud de la pandemia declarada, por el plazo de un año;
+Que, a su turno, el Decreto Provincial Nº 132 del 12 de marzo de 2020, ratificado por la Ley N° 15.174, declaró el estado de emergencia sanitaria en el ámbito de la Provincia de Buenos Aires por el plazo de ciento ochenta (180) días; al tiempo que se previó la adopción de diversas medidas necesarias a los fines de la contención del nuevo coronavirus (COVID-19) y de evitar el contagio y la propagación de la infección en la población;
+Que el Poder Ejecutivo Nacional dictó el Decreto N° 167/2021, por medio del cual prorroga la emergencia sanitaria y por ello la vigencia del Decreto 260/2020 hasta el 31 de diciembre del 2021;
+Que en fecha 17 de Marzo del 2020 el Municipio de Avellaneda dictó el Decreto N° 880/2020 por medio del cual se declaró la emergencia sanitaria en el ejido urbano del Partido de Avellaneda, adhiriendo a lo dispuesto por el Decreto 260/2020 y sus modificatorios;
+Que, recientemente, a través del Decreto Municipal N° 808/21 el Departamento Ejecutivo prorrogó la vigencia del artículo 1° del Decreto Municipal N° 880/2020, sus modificatorios y concordantes hasta el 31 de diciembre del 2021;
+Que el Departamento Ejecutivo estima necesario implementar en el presente ejercicio fiscal Planes de Regularización de Deudas, destinados tanto a lograr que los contribuyentes puedan cancelar las deudas que mantienen actualmente para con el Estado Local como a que puedan cumplir con sus obligaciones fiscales corrientes;
+Que producto de la emergencia sanitaria en el marco de la Pandemia de Coronavirus (COVID-19) amplios sectores de la población vieron disminuida su capacidad contributiva, por lo que resulta pertinente realizar acciones tendientes a garantizar los créditos de la comuna;
+Que en tal sentido, las medidas de aislamiento impactaron en la economía, afectando a las empresas, a las actividades comerciales y al empleo;
+Que, frente a este escenario de emergencia, el Municipio debió tomar medidas extraordinarias tendientes a mitigar el impacto económico y social respecto de los comercios que no pudieron desarrollar sus actividades en forma plena o lo hicieron de manera parcial redundando en la caída abrupta de su facturación, debiendo buscar nuevas herramientas que contribuyan a paliar los efectos de la crisis;
+Que en dicho marco este municipio ha habilitado en forma paulatina actividades comerciales y de servicios a medida que las autoridades nacionales y provinciales han ido autorizando las mismas, sobre la base de las condiciones epidemiológicas y conforme el sistema de fases implementado por el Ministerio de Jefatura de Gabinete de Ministros de la Provincia de Buenos Aires;
+Que, producto de la situación sanitaria que fundamenta dichas medidas la situación de los contribuyentes de nuestro Partido es preocupante por la imposibilidad de desarrollar sus actividades comerciales normalmente, con la consecuente caída en los ingresos;
+Que el sostenimiento de las actividades comerciales locales es una de las garantías de la generación de trabajo y riqueza en el Partido por lo que es necesario implementar las medidas necesarias para su preservación, siendo estas últimas fundamentales a los fines de la continuidad del desarrollo local que hemos sostenido en los años anteriores;
+Que las actividades que implican un aglomeramiento de personas en espacios cerrados fueron las que mayor impacto recibieron respecto de la situación sanitaria vigente, habida cuenta de la forma en la que el contagio del virus se propaga, siendo estas las últimas en retomar sus actividades;
+Que en dicha inteligencia resulta lógico e incluso razonable diseñar políticas públicas que amortigüen el impacto de las medidas sanitarias adoptadas, generando un balance y equilibrio entre la protección de la salud de las personas y el correcto desenvolvimiento de las finanzas públicas de los contribuyentes del Partido;
+Que para el acceso al Plan de Regularización de Deudas resultaría requisito previo la renuncia a las pretensiones que intentan desconocer la jurisdicción y potestades tributarias de la Municipalidad;
+Que de este modo la necesidad de implementar este tipo de Planes no reside únicamente en las importantes sumas de eventuales recursos genuinos involucrados en acciones judiciales y administrativas que impiden su exigibilidad, sino en efectivizar el ejercicio de las potestades tributarias autónomas del Municipio;
+Que no es menor la representatividad de las demoras que implican afrontar las situaciones de litigio, y los gastos para la Municipalidad como consecuencia de los actuales o eventuales procesos judiciales;
+Que la implementación de los Planes de Regularización de Deuda resultan una eficiente herramienta de recaudación con criterios equitativos así como un instrumento de mayor eficacia para el saneamiento del patrimonio comunal;
+Que atento a que el cumplimiento tributario debe adaptarse al escenario económico y social en el que se desenvuelve, resulta necesario ordenar medidas a los efectos de paliar la crisis económica, tutelar la permanencia de las fuentes laborales y permitir el desendeudamiento de los contribuyentes;
+Que, dicha facultad resulta competencia del Departamento Deliberativo en virtud de lo establecido por la Ley Orgánica de las Municipalidades (Decreto-Ley N° 6769/58)
+Que, en materia tributaria deben aplicarse los principios de generalidad, capacidad contributiva, razonabilidad y progresividad;
+Que tomó intervención la Secretaría Legal y Técnica;
+POR ELLO:
+El Honorable Concejo Deliberante de Avellaneda, ha sancionado en sesión ordinaria la siguiente.
+ORDENANZA
