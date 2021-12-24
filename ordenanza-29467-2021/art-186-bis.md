@@ -1,0 +1,1 @@
+Artículo 186º bis- Estarán exentos del pago de la Tasa por Inspección de Seguridad e Higiene, Tasa por Inspección de Habilitación y Tasa por Instalaciones Térmicas, Eléctricas y/o Mecánicas, afectadas al uso comercial, industrial o de servicios que requieran la presentación de planos y/o pruebas de seguridad las instituciones asistenciales sin fines de lucro.

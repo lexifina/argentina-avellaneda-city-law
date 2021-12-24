@@ -1,0 +1,3 @@
+Artículo 153º ter- El Departamento Ejecutivo queda expresamente autorizado a reglamentar las condiciones, oportunidad, formas, medios e instrumentos necesarios para la concesión de los beneficios acordados en la presente Ordenanza.
+TÍTULO CUARTO
+TASA POR FISCALIZACIÓN RIESGO AMBIENTAL
