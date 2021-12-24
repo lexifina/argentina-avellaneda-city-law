@@ -1,0 +1,1 @@
+Artículo 116° nonies- La exhibición del comprobante de retención emitido en debida forma por parte de un Agente de Recaudación, eximirá a los posteriores Agentes de Recaudación de percibir la misma contribución hasta la 00:00 hora del día en que fue emitido.

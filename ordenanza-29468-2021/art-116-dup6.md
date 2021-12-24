@@ -1,0 +1,1 @@
+Artículo 116° quindecies- Conforme lo normado en el artículo 320° septies de la Ordenanza Fiscal, la base imponible será el módulo, cuyo valor se determinará en base a la unidad fija (UF), siendo equivalente un (1) módulo a una (1) unidad fija.

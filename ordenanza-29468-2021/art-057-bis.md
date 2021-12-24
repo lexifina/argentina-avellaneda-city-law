@@ -1,0 +1,2 @@
+Artículo 57° bis- El valor a tributar por Plan de Renovación Estética en la Feria del regalo conforme lo establecido en el Artículo 244° bis de la Ordenanza Fiscal será de $10.360,-
+Queda facultado el Departamento Ejecutivo a actualizar el valor establecido en el presente de acuerdo al índice de precios consumidor de nivel general (IPC) que publique el INDEC hasta el momento de la efectiva instrumentación del plan de renovación, así como a reglamentar lo establecido en el presente.

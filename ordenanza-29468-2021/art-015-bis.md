@@ -1,0 +1,1 @@
+Artículo 15º bis- Quedan comprendidos en la categoría de EQUIPOS C del artículo 12º los enumerados en la Ordenanza Nº18.141/04 y que no se encuentran ya detallados dentro de las categorías de EQUIPOS A y B.
