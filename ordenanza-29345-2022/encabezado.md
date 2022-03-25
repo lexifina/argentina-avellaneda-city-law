@@ -1,0 +1,29 @@
+Ordenanza Nº29345
+Ordenanza Nº 29345
+Avellaneda, 10/06/2021
+VISTO
+EL expediente Nº 2-0-85219/2021 HCD 3-0-50016/2021; y
+CONSIDERANDO:
+Que nuestra Constitución Nacional reconoce en sus artículos 75 incisos 19 y 22 el derecho que toda persona posee a una vivienda digna, entre otros derechos económicos, sociales y culturales;
+Que en el marco del Pacto Internacional de Derechos Económicos, Sociales y Culturales, incorporado a nuestro ordenamiento jurídico a partir de la reforma constitucional de 1994, los estados reconocen el derecho de toda persona a un nivel de vida adecuado para sí y su familia, incluso alimentación, vestido y vivienda adecuados, y a una mejora continua de las condiciones de existencia;
+Que la reforma constitucional de 1957 incorporó el derecho a la vivienda digna y la reforma de 1994 en su artículo 41 instituyó el principio del desarrollo sustentable que lleva ínsito el de utilización racional del suelo, así como el deber del Estado y de los ciudadanos a la preservación de los recursos naturales y el patrimonio cultural;
+Que reconocido de este modo, el derecho humano a una vivienda adecuada tiene una importancia fundamental para el disfrute de todos los derechos económicos, sociales y culturales;
+Que Argentina enfrenta el desafío de plantear la reforma urbana a partir de legislación que reconozca presupuestos básicos para el desarrollo urbano con inclusión social, generando instrumentos legales y de gestión del suelo y de la vivienda en todos los niveles de gobierno, estableciendo como regla principal la justa distribución de las cargas y beneficios que produce el crecimiento de las ciudades;
+Que a pesar de procesos de gran crecimiento económico y de reconocimiento de derechos sociales y culturales, con una enorme inversión pública en todas las materias de desarrollo nacional, no se ha podido lograr la realización plena del derecho a la tierra y la vivienda digna, ya que la oferta de dichos bienes fundamentales opera casi exclusivamente con la lógica del mercado;
+Que la Ley N° 14449, conocida como Ley de Acceso Justo al Hábitat tiene por objeto la promoción del derecho a la vivienda y a un hábitat digno y sustentable, conforme lo establece la Constitución de la Provincia de Buenos Aires;
+Que entre los objetivos específicos de dicha ley se encuentran (a) promover la generación y facilitar la gestión de proyectos habitacionales, de urbanizaciones sociales y de procesos de regularización de barrios informales (b) abordar y atender integralmente la diversidad y complejidad de la demanda urbano habitacional y (c) generar nuevos recursos a través de instrumentos que permitan, al mismo tiempo, reducir las expectativas especulativas de valorización del suelo;
+Que dicha ley define los lineamientos generales de las políticas de hábitat y vivienda y regula las acciones dirigidas a resolver en forma paulatina el déficit urbano habitacional, dando prioridad a las familias bonaerenses con pobreza crítica y con necesidades especiales;
+Que asimismo la normativa en cita contempla a la vivienda y el hábitat digno como un derecho que comporta la satisfacción de las necesidades urbanas y habitacionales de los ciudadanos de la Provincia, especialmente de quienes no logren resolverlas por medio de recursos propios, de forma de favorecer el ejercicio pleno de los derechos fundamentales;
+Que los Municipios deberán, en dichos términos, implementar en forma progresiva y según los medios disponibles, actuaciones de diferente escala dirigidas a desarrollar nuevas áreas residenciales en centros urbanos o en asentamientos rurales, mediante la construcción de conjuntos de viviendas o urbanísticos o de desarrollo progresivo que cuenten con la infraestructura y los servicios, las reservas de equipamiento comunitario y espacios verdes;
+Que del análisis del ejido municipal surge la existencia de gran cantidad de inmuebles que se encuentran en estado de abandono y sobre los que recaen cuantiosas deudas fiscales, tanto municipales como provinciales;
+Que dichos inmuebles en la mayoría de los casos producen inconvenientes relacionados con la sanidad e higiene ambiental, poniendo en peligro la salud de los vecinos;
+Que algunos inmuebles abandonados producen problemáticas estructurales para el desarrollo urbano, siendo causa del estancamiento del proceso de densificación y consecuente obstaculización de la consolidación del ejido urbano, como manifestación y herramienta del progreso;
+Que por su potencialidad, los usos en beneficio de la ciudad deben ser correctamente desarrollados por sus propietarios, dando un uso eficiente a los recursos existentes, ya que el financiamiento de las ciudades implica un necesario desarrollo equilibrado de áreas que cuentan con normas urbanas e infraestructuras de servicios;
+Que las políticas de vivienda y hábitat son una función y responsabilidad pública y, por lo tanto, deben garantizar la defensa de derechos colectivos por aplicación del principio de la función social de la propiedad;
+Que en ese sentido resulta necesario desarrollar planes, estrategias, programas, operatorias, proyectos y normas a fin de consolidar políticas públicas que propicien la integración socio-urbana y el desarrollo sostenible de la Ciudad de Avellaneda;
+Que por ello se propicia el dictado de la presente Ordenanza, con fundamento en la necesidad de fortalecer la regulación pública sobre el suelo urbano con la finalidad de desalentar prácticas especulativas, utilizando e incorporando al ordenamiento jurídico local instrumentos de recuperación y redistribución social de la valorización de los inmuebles.
+Que tomó intervención la Secretaría Legal y Técnica, no realizando objeciones al respecto;
+Que este Cuerpo Deliberativo estima conveniente y oportuno proceder al dictado de la norma pertinente;
+Por ello:
+El Honorable Concejo Deliberante de Avellaneda, ha sancionado en Sesiòn Ordinaria, la siguiente
+ORDENANZA
