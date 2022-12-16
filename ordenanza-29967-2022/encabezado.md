@@ -1,0 +1,20 @@
+Ordenanza Nº29967
+Ordenanza Nº 29967
+Avellaneda, 24/11/2022
+El expediente D.E. 2-0-103830/2022 - HCD 3-0-51147/2022; y
+Que el mismo viene a consideración y tratamiento de este Cuerpo Deliberativo el, Proyecto de Creación del PROGRAMA CASA PROPIA en el Municipio de Avellaneda; destinado a la ciudadania con capacidad de ahorro previo y que no pueden acceder a créditos para tal fin, segn los mecanismos vigentes en el mercado;
+Que dicho ho Programa que se pretende crear, busca promover y financiar proyectos para el desarrollo de soluciones habitacionales que mejoren las condiciones del habitad de los vecinos y vecinas de Avellaneda contribuyendo con el descenso progresivo del déficit habitacional cuantitativo y cualitativo en nuestra ciudad y por ende del país en general;
+Que motiva la creación del presente programa el hecho de que la intervención en el territorio de los Gobiernos Municipales no se debe limitar a distribuir las funciones en el espacio físico, sino que debe encarar acciones y asegurar a sus habitantes una mejor calidad de vida en el marco de las políticas ambientales y el acceso consecuente a una vivienda digna para la seguridad del grupo familiar;
+Que en concordancia con el Programa Nacional que lleva el mismo nombre el objetivo se pretende promover el desarrollo de soluciones habitacionales con estándares de calidad adecuados, mediante la ejecución de obras nuevas en el marco de proyectos integrales e inclusivos , para una adecuada apropiación del hábitat por parte de los beneficiarios, mediante la ejecución de acciones participativas y de comunicación masiva;
+Que la situación habitacional en la Ciudad de Avellaneda reviste un carácter crítico, agravada por la imposibilidad de acceder a créditos, según los mecanismos vigentes en el mercado para la compra de viv iendas propias;
+Que el Gobierno Nacional y Provincial se encuentra realizando un gran esfuerzo para posibi litar el acceso a la vivienda de aquellos que menos ingresos registran;
+Que el Municipio de Avellaneda considera y sostiene que el Derecho a la Vivienda debe considerarse màs bien como el derecho a vivir en seguridad, paz y dignidad en alguna parte, vinculado por entero a otros derechos humanos y a los principios fundamentales.
+Que el Municipio tiene como objetivo estratégico vincular la política habitacional con el desarrollo territorial, alentando el aprovechamiento del suelo en localizaciones favorables dentro de la traza urbana redefiniendo la misma para lograr cada vez más una Ciudad que promueve derechos, desde la perspectiva de la inclusión, la equidad y la justicia social;
+Que, asimismo, con la creación del presente programa, se buscará favorecer la integración socio comunitaria y el desarrollo sustentable del hábitat urbano, haciendo uso responsable de recursos y materiales vinculados a la construcción, y promoviendo la incorporación de nuevos materiales y sistemas constructivos;
+Que en los distintos proyectos y a través de las diferentes formas de ejecución se buscará promover la incorporación de mano de obra, la reinserción social y laboral de la población afectada . Esto también lleva a movilizar la economía a partir de los mercados locales de materiales e insumos para la construcción, fortaleciendo el proceso de reactivación económica del sector habitacional;
+Que el programa CASA PROPIA también tiene como objetivo brindar seguridad jurídica a los beneficiarios de estas soluciones habitacionales generadas con financiam iento público, a partir del recobro y a posteriori el otorgamiento del correspondiente título de propiedad;
+Que en virtud de lo expuesto , deviene necesario proceder a la creación de un Programa que permita establecer los procedimientos , criterios y requisitos para acceder a la CASA PROPIA en la órbita de los desarrollos habitacionales que el Municipio de Avellaneda implemente;
+Que tomó intervención la Secretaría Legal y Técnica;
+Por ello:
+El Honorable Concejo Deliberante de Avellaneda , ha sancionado en Sesión Ordinaria, la siguiente
+ORDENANZA
