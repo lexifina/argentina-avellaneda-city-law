@@ -1,0 +1,1 @@
+Artículo 113º- A los efectos del otorgamiento del beneficio solicitado en el presente título el contribuyente no podrá presentar deuda devengada exigible alguna por los tributos de los que resulte responsable.

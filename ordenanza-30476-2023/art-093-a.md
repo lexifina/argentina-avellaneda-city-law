@@ -1,0 +1,1 @@
+Artículo 93º- A partir del ingreso de la constancia de deuda a la oficina municipal competente para la gestión de cobro judicial, no podrá autorizarse pago alguno sin la intervención de esa dependencia y de la Autoridad de Aplicación.
