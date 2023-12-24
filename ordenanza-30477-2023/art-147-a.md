@@ -1,0 +1,1 @@
+Artículo 147º- A partir del mes de marzo del ejercicio fiscal 2024, las tasas, contribuciones y derechos que se encuentren determinados en la presente Ordenanza Impositiva se actualizarán mensualmente por aplicación del índice de Precios al Consumidor (IPC) publicado por el Instituto Nacional de Estadísticas y Censos (INDEC) o por el que en el futuro lo reemplace a tal efecto.
