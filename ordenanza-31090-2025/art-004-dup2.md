@@ -1,0 +1,1 @@
+ARTICULO 4°: Autorizase al Departamento Ejecutivo a reglamentar la presente ordenanza, a los fines de dar cumplimiento a lo aquí previsto, dictando los actos administrativos que a tales efectos sean necesarios.
