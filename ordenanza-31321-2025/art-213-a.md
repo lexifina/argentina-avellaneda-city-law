@@ -1,0 +1,1 @@
+Artículo 213º- A los fines de la determinación de los montos de estas tasas se aplicará el nomenclador nacional de honorarios profesionales y gastos sanatoriales que a tal efecto dispongan las leyes Nacionales y Provinciales.
