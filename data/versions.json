@@ -1946,6 +1946,34 @@
      "sha256": "a491768e176237bfe241da3bc72addef908e9d5e4cd4531441ffb57d725c2422"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-29488-2021",
+   "short": "Ordenanza 29488/2021",
+   "title": "Ordenanza 29488/2021: Acéptese el aporte mensual ofrecido por la firma BIYEMAS S.A , consiste en la suma de $ 2.356.460,44.- (Pesos dos millones trescientos cincuenta y seis mil cuatrocientos sesenta con cuarenta y cuatro centavoa), en el mar",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1660600",
+   "versions": [
+    {
+     "from": "2022-01-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1660600",
+     "sha256": "dc99732031e4864c6a7ea6f25230c06c5723108aa56df69de5bd9aeb9c5673aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-29503-2021",
+   "short": "Ordenanza 29503/2021",
+   "title": "Ordenanza 29503/2021: Autorízase al Departamento Ejecutivo a extender el recorrido del Ramal 4 de la Línea Comunal 570 bajo las condiciones concordantes con el contrato vigente de adjudicación y en cumplimiento de la normativa vigente, que qu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1661298",
+   "versions": [
+    {
+     "from": "2022-01-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1661298",
+     "sha256": "63113a37dff735bbe57c1f5c18fde4c258454f7d6c780687e6983670c66876cf"
+    }
+   ]
   }
  ]
 }

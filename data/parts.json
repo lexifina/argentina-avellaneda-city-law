@@ -153,6 +153,13 @@
     "ordenanza-31582-2026"
    ],
    "sha256": "5d66d72dd26ca76f01595ac588c69f15e8dc04c6809ba86ea23ec49360f1fc80"
+  },
+  "33-missing-articles.json": {
+   "acts": [
+    "ordenanza-29488-2021",
+    "ordenanza-29503-2021"
+   ],
+   "sha256": "2ec3b7102aaa5c4ff8bc63518f6c65656e3eaf8fa291d8b3c56d73bfb8ea56c6"
   }
  },
  "schema": 1

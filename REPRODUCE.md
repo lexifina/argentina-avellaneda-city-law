@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Avellaneda | <https://sibom.slyt.gba.gob.ar/cities/6> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Avellaneda | <https://sibom.slyt.gba.gob.ar/cities/6> | 2026-11-05 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -153,20 +154,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-31392-2026` | Ordenanza 31392/2026: Convalídase el Contrato de Servicios suscripto entre la Municipalidad de Avellaneda y la firma INERGRAM CONSULTORES S.A.S., registrado bajo el N° 6639, en fecha 20 de noviembre de 2025, en virtud de las consideraciones v | 1 | 2026-05-08 to 2026-05-08 |
 | `ordenanza-31542-2026` | Ordenanza 31542/2026: Convalídase el Decreto dictado “Ad-Referéndum” del Concejo Deliberante, registrado bajo el Nº 3469, en fecha 07 de agosto de 2026, obrante a fojas 1/2, en virtud de las consideraciones vertidas en el exordio de la presen | 1 | 2026-09-11 to 2026-09-11 |
 | `ordenanza-31582-2026` | Ordenanza 31582/2026: OBJETO. Créase el Programa Municipal de Prevención, Asistencia y Posvención del Suicidio "Avellaneda Te Cuida", destinado a fortalecer y articular las políticas municipales de prevención, primera escucha, atención, segui | 1 | 2026-11-07 to 2026-11-07 |
+| `ordenanza-29488-2021` | Ordenanza 29488/2021: Acéptese el aporte mensual ofrecido por la firma BIYEMAS S.A , consiste en la suma de $ 2.356.460,44.- (Pesos dos millones trescientos cincuenta y seis mil cuatrocientos sesenta con cuarenta y cuatro centavoa), en el mar | 1 | 2022-01-08 to 2022-01-08 |
+| `ordenanza-29503-2021` | Ordenanza 29503/2021: Autorízase al Departamento Ejecutivo a extender el recorrido del Ramal 4 de la Línea Comunal 570 bajo las condiciones concordantes con el contrato vigente de adjudicación y en cumplimiento de la normativa vigente, que qu | 1 | 2022-01-08 to 2022-01-08 |
 
-The build made 139 commits:
+The build made 141 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 139 | first version of an act |
+| 141 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 139 laws in the record.
-- 279 tags.
+- 141 laws in the record.
+- 283 tags.
 
 ## Dates
 
@@ -178,15 +181,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3374308a7c1462dea103f0d880fa4d12638b3f2bb83c64658e74558d0ad04d15` (6202570 bytes).
+- Corpus: sha256 `b0a531cdbbfab486aa8afe9e46982514d682d78e64dec1c8df380d27c76d1fc1` (6217677 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-139 versions of 139 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 140 history commits and 282 tags (history tip `15ffba80958cdc594537c38e38f1fb0bfc059fc9`).
 
 ## Decisions made by hand
 
@@ -195,6 +198,8 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- These two ordinances were absent from the earlier corpus because SIBOM prints their article headings as ARTICULOS rather than ARTICULO. The literal source wording, including ARTICULOS, is retained; only the heading recognition is broadened.
+- Each ordinance is represented as published in the municipal bulletin, with its own original text and source publication date. This part does not consolidate later amendments.
 
 ## What AI did and did not do
 
@@ -206,3 +211,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model identified the parser gap and wrote code to extract these two ordinances; it wrote no law text. All law text comes from the official SIBOM HTML.
