@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-139 ordinances so far, in force from 4 January 2018 to 7 November 2026, each as published in the Boletín Oficial Municipal de Avellaneda, added in parts.
+141 ordinances so far, in force from 4 January 2018 to 7 November 2026, each as published in the Boletín Oficial Municipal de Avellaneda, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -152,6 +152,9 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-31542-2026/` | Ordenanza 31542/2026: Convalídase el Decreto dictado “Ad-Referéndum” del Concejo Deliberante, registrado bajo el Nº 3469, en fecha 07 de agosto de 2026, obrante… | in force 11 September 2026 |
 | `ordenanza-31582-2026/` | Ordenanza 31582/2026: OBJETO. Créase el Programa Municipal de Prevención, Asistencia y Posvención del Suicidio "Avellaneda Te Cuida", destinado a fortalecer y a… | in force 7 November 2026 |
 
+| `ordenanza-29488-2021/` | Ordenanza 29488/2021: Acéptese el aporte mensual ofrecido por la firma BIYEMAS S.A. | in force 8 January 2022 |
+| `ordenanza-29503-2021/` | Ordenanza 29503/2021: Autorízase al Departamento Ejecutivo a extender el recorrido del Ramal 4 de la Línea Comunal 570. | in force 8 January 2022 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Avellaneda, <https://sibom.slyt.gba.gob.ar/cities/6>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -178,11 +181,9 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-4 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Avellaneda page gives no article text to read:
+2 duplicate publications in SIBOM’s search are not included because their first publications are already present:
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
-| Ordenanza 29488 | 30 December 2021 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1660600> |
-| Ordenanza 29503 | 30 December 2021 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/6377/contents/1661298> |
 | Ordenanza 29709 | 21 October 2022 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/7540/contents/1770882> |
 | Ordenanza 30025 | 11 December 2023 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/9645/contents/1974201> |
